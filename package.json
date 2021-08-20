@@ -16,10 +16,9 @@
 		"proxy"
 	],
 	"dependencies": {
-		"async-cache": "~1",
-		"log4js": "^0.6.27",
-		"net": "~1.0.2",
-		"sni-reader": "git://github.com/tellnes/sni-reader#master"
+		"async-cache": "^1.1.0",
+		"log4js": "^6.3.0",
+		"sni-reader": "^0.1.1"
 	},
 	"author": "Jørn Åne <git@jornane.no>",
 	"license": "ISC",
